@@ -13,11 +13,6 @@ Visit the live portfolio: [https://smail-yazidi.vercel.app/](https://smail-yazid
 ![Portfolio Homepage](home1.png)
 *Main portfolio interface showcasing the modern glassmorphism design with multi-language support*
 
-![Portfolio Homepage](home2.png)
-*Main portfolio interface showcasing the modern glassmorphism design with multi-language support*
-
-![Portfolio Homepage](home3.png)
-*Main portfolio interface showcasing the modern glassmorphism design with multi-language support*
 
 ### AI Assistant Widget
 ![AI Assistant](ai.png)
